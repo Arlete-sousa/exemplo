@@ -12,7 +12,7 @@ https://jacare-tracker.org para saber quantas pessoas viraram jacaré depois de 
 
 https://sharpen.design para receber um desafio de design e treinar - tem desafios de tecnologia também, construir coisas com arduíno e tal. Bem interessante;
 
-https://justwatch.com para saber qual serviço de stream passa o filme que você quer ver.
+https://justwatch.com para saber qual serviço de stream passa o filme que você quer ver;
 
 https://psafe.com/dfndr-lab/pt-br/… site pra analisar se um link compartilhado com vc é seguro ou apresenta risco 
 
